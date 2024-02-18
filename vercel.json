@@ -7,7 +7,7 @@
             "config":{"runtime":"python3.11"}
         }
     ],
-    "routes": [
+    "rewrites": [
         {
             "src":"/(.*)",
             "destination":"/"
