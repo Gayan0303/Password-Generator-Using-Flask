@@ -7,10 +7,10 @@
             "config":{"runtime":"python3.11"}
         }
     ],
-    "REWRITES": [
+    "rewrites": [
         {
-            "SOURCE":"/(.*)",
-            "DESTINATION":"/"
+            "source":"/(.*)",
+            "destination":"/"
         }
     ]
 }
